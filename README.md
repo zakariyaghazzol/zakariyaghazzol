@@ -23,5 +23,3 @@ Streaming Node.js binary-data converter and validator for a star-catalog renderi
 ## Tools
 
 C++17, Python, JavaScript/Node.js, Arduino, Git, CMake, and KiCad schematics and board placement.
-
-Each repository distinguishes implemented software, measured bench results, and work that has not yet been validated.
