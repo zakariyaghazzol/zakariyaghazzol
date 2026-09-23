@@ -14,7 +14,7 @@ Arduino GPS transmitter and LoRa receiver with a Python ground station for GPS-f
 
 ### [ESP32-S3 Camera Recorder](https://github.com/zakariyaghazzol/esp32s3-camera-recorder)
 
-Camera and microSD recording work on the XIAO ESP32S3 Sense, with Python tools for checking recorded clips. A short hardware test saved 50 of 50 JPEG frames at 5 FPS over 10 seconds. Extended recording and flight validation remain unfinished.
+Camera and microSD recording work on the XIAO ESP32S3 Sense, with Python tools for checking recorded clips. An earlier CameraWebServer-based setup saved 50 of 50 JPEG frames at 5 FPS over 10 seconds; the standalone recorder has compile and host-test verification. Extended recording and flight validation remain unfinished.
 
 ### [Solar Atlas - Stellarium Catalog Pipeline](https://github.com/zakariyaghazzol/solar-atlas-stellarium-pipeline)
 
