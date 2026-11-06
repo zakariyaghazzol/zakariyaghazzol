@@ -4,13 +4,11 @@ I'm an aerospace engineering student at the University of Central Florida, worki
 
 [LinkedIn](https://www.linkedin.com/in/zakariya-ghazzol-881492343/)
 
-## Open-source contributions
+## Selected open-source contributions
 
-Merged contributions to [Fpy](https://github.com/fprime-community/fpy), the spacecraft scripting language for F Prime:
-
-- [Time-context types](https://github.com/fprime-community/fpy/pull/271) — Fixed `time()` to honor the dictionary-configured time-context type.
-- [String serialization tests](https://github.com/fprime-community/fpy/pull/269) — Updated regression coverage for configurable string-length prefixes and UTF-8 byte counts.
-- [Spelling CI](https://github.com/fprime-community/fpy/pull/270) — Updated and pinned `check-spelling` to v0.0.26.
+- **Basilisk (AVS Lab):** Added a C++ equinoctial averaging mode for spacecraft formations in near-circular or near-equatorial orbits. [Merged PR #1668](https://github.com/AVSLab/basilisk/pull/1668)
+- **Fpy (F Prime):** Fixed `time()` to use the configured time-context type. [Merged PR #271](https://github.com/fprime-community/fpy/pull/271)
+- **Fpy (F Prime):** Added regression tests for configurable string-length fields and UTF-8 byte counts. [Merged PR #269](https://github.com/fprime-community/fpy/pull/269)
 
 ## Engineering projects
 
